@@ -1,1 +1,3 @@
-# seckill
+#seckill
+基于Spring＋SpringMVC＋Mybatis＋MySQL+Bootstrap+jQuery开发的模拟秒杀系统。
+通过此项目的开发学习，可以掌握电商秒杀业务，能够进行SpringMVC+Spring+MyBatis的整合开发和能够进行秒杀业务DAO层的设计与实现
